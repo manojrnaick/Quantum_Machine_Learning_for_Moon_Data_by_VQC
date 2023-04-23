@@ -1,1 +1,1 @@
-# Quantum_Machine_Learning_for_Moon_Data_by_VQC
+# Quantum Machine Learning for Moon Data by VQC
